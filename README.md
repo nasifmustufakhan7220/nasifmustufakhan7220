@@ -141,7 +141,9 @@
 
 ### Most Used Languages:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?nasifmustufakhan7220-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nasifmustufakhan7220-github-username&layout=compact&theme=default) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasifmustufakhan7220&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasifmustufakhan7220&layout=compact&theme=default)
 
 ### GitHub Streak:
 
