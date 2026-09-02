@@ -141,11 +141,7 @@
 
 ### Most Used Languages:
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifmustufakhan7220&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?nasifmustufakhan7220-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nasifmustufakhan7220-github-username&layout=compact&theme=default) |
 
 ### GitHub Streak:
 
