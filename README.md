@@ -133,11 +133,11 @@
 
 ### GitHub Statistics:
 
-<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasifmustufakhan7220&show_icons=true&locale=en" alt="nasifmustufakhan7220" /></p>
 
-</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nasifmustufakhan7220&show_icons=true&locale=en" alt="nasifmustufakhan7220" /></p>
+
+
 
 ### Most Used Languages:
 
@@ -149,11 +149,8 @@
 
 ### GitHub Streak:
 
-<p align="center">
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasifmustufakhan7220&" alt="nasifmustufakhan7220" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasifmustufakhan7220&" alt="nasifmustufakhan7220" /></p>
-
-</p>
 
 ---
 
