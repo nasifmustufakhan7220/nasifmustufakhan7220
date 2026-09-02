@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://facebook.com/mustafa.ovi.9/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
 </a>
 </p>
 
