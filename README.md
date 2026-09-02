@@ -44,11 +44,6 @@
 <a href="https://facebook.com/mustafa.ovi.9/" target="_blank">
   <img src="https://skillicons.dev/icons?i=facebook" width="50" height="50" />
 </a>
-
-<a href="https://github.com/nasifmustufakhan7220" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
-</a>
-
 </p>
 
 ---
