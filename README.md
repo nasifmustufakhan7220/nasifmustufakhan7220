@@ -126,7 +126,8 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasifmustufakhan7220&theme=github-dark&hide_border=true" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasifmustufakhan7220&show_icons=true&locale=en&layout=compact" alt="nasifmustufakhan7220" /></p>
+
 
 </p>
 
@@ -134,7 +135,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nasifmustufakhan7220&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nasifmustufakhan7220&show_icons=true&locale=en" alt="nasifmustufakhan7220" /></p>
 
 </p>
 
@@ -150,7 +151,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasifmustufakhan7220&theme=github-dark&hide_border=true" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasifmustufakhan7220&" alt="nasifmustufakhan7220" /></p>
 
 </p>
 
