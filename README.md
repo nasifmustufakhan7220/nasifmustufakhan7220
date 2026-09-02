@@ -126,8 +126,9 @@
 
 <p align="center">
   <img 
-    src="https://github-contributions-api.deno.dev/nasifmustufakhan7220.svg" 
-    alt="GitHub Contributions"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nasifmustufakhan7220&hide_border=true"
+    alt="Nasif's GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
