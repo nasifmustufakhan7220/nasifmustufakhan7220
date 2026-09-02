@@ -1,4 +1,4 @@
-<img src="./Banner/banner01.png" alt="Hello World">
+<img src="./Banner/banner02.png" alt="Hello World">
 
 <h1 align="center">Hi 👋, I'm Nasif Mustufa Khan</h1>
 <h3 align="center">Aspiring Full-Stack MERN Developer</h3>
