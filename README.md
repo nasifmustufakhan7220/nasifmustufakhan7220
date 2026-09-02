@@ -125,10 +125,10 @@
 ### GitHub Contributions:
 
 <p align="center">
-
-<p><img src="https://github-contributions-api.deno.dev/nasifmustufakhan7220.svg" /></p>
-
-
+  <img 
+    src="https://github-contributions-api.deno.dev/nasifmustufakhan7220.svg" 
+    alt="GitHub Contributions"
+  />
 </p>
 
 ### GitHub Statistics:
