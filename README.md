@@ -25,7 +25,7 @@
 - 💻 Building projects to strengthen my **web development fundamentals**
 - 🤖 Exploring **AI-Assisted Development & AI-Driven Engineering**
 - 📚 Improving my skills through **problem solving and hands-on projects**
-- 👨‍💻 All of my projects are available on my GitHub **nasifmustufakhan7220**
+- 👨‍💻 All of my projects are available on my GitHub @nasifmustufakhan7220
 - 📫 Reach me at **nasifk7220@gmail.com**
 - ⚡ Fun fact: **I love coding and learning new technologies**
 
