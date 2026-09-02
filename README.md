@@ -139,12 +139,11 @@
 
 
 
-### Most Used Languages:
+## Most Used Languages:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[nasifmustufakhan7220](https://github.com/nasifmustufakhan7220)&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasifmustufakhan7220&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[nasifmustufakhan7220](https://github.com/nasifmustufakhan7220)&layout=compact&theme=default)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasifmustufakhan7220&layout=compact&theme=default)
 ### GitHub Streak:
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasifmustufakhan7220&" alt="nasifmustufakhan7220" /></p>
