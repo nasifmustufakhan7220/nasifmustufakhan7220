@@ -121,33 +121,52 @@
 
 <h2>📊 GITHUB STATISTICS & ANALYSIS:</h2>
 
-### GitHub Contributions:
+### 🐍 GitHub Contributions:
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nasifmustufakhan7220&hide_border=true"
-    alt="Nasif's GitHub Activity Graph"
-    width="100%"
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nasifmustufakhan7220/nasifmustufakhan7220/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nasifmustufakhan7220/nasifmustufakhan7220/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/nasifmustufakhan7220/nasifmustufakhan7220/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
+### 📊 GitHub Statistics:
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Statistics"
   />
 </p>
 
-### GitHub Statistics:
+### 💻 Most Used Languages:
 
+<p align="center">
+  <img
+    src="./profile/top-langs.svg"
+    alt="Most Used Languages"
+  />
+</p>
 
+### 🔥 GitHub Streak:
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nasifmustufakhan7220&show_icons=true&locale=en" alt="nasifmustufakhan7220" /></p>
-
-
-
-## Most Used Languages:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasifmustufakhan7220&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasifmustufakhan7220&layout=compact&theme=default)
-### GitHub Streak:
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nasifmustufakhan7220&" alt="nasifmustufakhan7220" /></p>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=nasifmustufakhan7220"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
