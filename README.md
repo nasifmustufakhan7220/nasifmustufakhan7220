@@ -104,13 +104,12 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=ts,react" />
 
 </p>
 
 - TypeScript
 - React
-- Node.js
 - MERN Stack
 - AI-Assisted Coding
 - AI-Driven Web Engineering
