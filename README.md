@@ -102,13 +102,14 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=ts,react" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
 
 </p>
 
 - TypeScript
 - React
-- MERN Stack
+- Next.js
+- MERN Stack(React/ Next.js)
 - AI-Assisted Coding
 - AI-Driven Web Engineering
 
