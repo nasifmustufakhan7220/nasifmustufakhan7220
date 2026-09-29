@@ -102,7 +102,8 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,betterauth" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
+ <img src="https://githubusercontent.com" alt="Better Auth" width="40" height="40"/>
 
 </p>
 
