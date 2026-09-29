@@ -102,12 +102,13 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,betterauth" />
 
 </p>
 
 - TypeScript
 - React
+- Better Auth
 - Next.js
 - MERN Stack(React/ Next.js)
 - AI-Assisted Coding
