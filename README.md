@@ -109,7 +109,7 @@
 
 - TypeScript
 - React
-- Better Auth
+- Better Auth(Basic)
 - Next.js
 - MERN Stack(React/ Next.js)
 - AI-Assisted Coding
